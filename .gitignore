@@ -14,3 +14,4 @@ sleekxmpp.egg-info/
 .DS_STORE
 .idea/
 *-venv/
+.vscode/
