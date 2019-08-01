@@ -11,4 +11,5 @@ sleekxmpp.egg-info/
 4913
 *~
 .baboon/
-.DS_STORE
+.DS_STORiE
+*-venv/
